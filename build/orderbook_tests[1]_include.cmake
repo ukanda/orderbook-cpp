@@ -1,0 +1,5 @@
+if(EXISTS "/Users/upendrakanda/dev/cpp/src/orderbook/build/orderbook_tests[1]_tests.cmake")
+  include("/Users/upendrakanda/dev/cpp/src/orderbook/build/orderbook_tests[1]_tests.cmake")
+else()
+  add_test(orderbook_tests_NOT_BUILT orderbook_tests_NOT_BUILT)
+endif()
