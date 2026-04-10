@@ -1,3 +1,0 @@
-/Users/upendrakanda/dev/cpp/src/orderbook/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-/Users/upendrakanda/dev/cpp/src/orderbook/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-/Users/upendrakanda/dev/cpp/src/orderbook/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir
